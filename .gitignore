@@ -1,0 +1,20 @@
+# Maven output folders
+/target/
+
+# IDE specific
+.classpath
+.project
+.settings/
+.idea/
+*.iml
+
+# Logs
+*.log
+
+# OS generated
+.DS_Store
+Thumbs.db
+
+# Build artifacts
+*.war
+*.ear
